@@ -1,4 +1,4 @@
-{
+nó{
     "language": "vi",
     "DeveloperMode": false,
     "autoCreateDB": true,
@@ -20,10 +20,10 @@
     "PREFIX": "/",
     "ADMINBOT": [
         "100092189239023"
-        "100074331292459"
+        ""
     ],
     "NDH": [
-        "100074331292459"
+        ""
     ],
     "DATABASE": {
         "sqlite": {
